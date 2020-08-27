@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import DataTable from './DataTable';
 import Nav from './Nav';
 import API from './assets/API';
-import InfoAreaContext from './assets/InfoAreaContext';
+import InfoAreaContext from './utils/InfoAreaContext';
 
 
 const InfoArea = () => {
@@ -18,3 +18,5 @@ const InfoArea = () => {
         ]
     })
 };
+
+
