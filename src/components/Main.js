@@ -1,10 +1,10 @@
 import React from 'react';
+import InfoArea from './InfoArea';
 
 function Main () {
     return (
         <div clasName="Main">
-            <h1>Employee Directory</h1>
-            <p>Browse through by using the Search box or click on each item</p>
+            <InfoArea />
         </div>
 
     );
