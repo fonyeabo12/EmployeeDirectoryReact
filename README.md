@@ -5,9 +5,12 @@ This poject uses the React stack to render a web applicatio that uses an API to 
 
      1. Chidi Onyeabo
 
-          a. [LinkedIn Profile](https://linkedin.com/in/franklin-onyeabo-b168631a1)
-          b. [Github Portfolio](https://fonyeabo12.github.io/)
-          c. [GitHub addresss](https://github.com/fonyeabo12)
+          [LinkedIn Profile](https://linkedin.com/in/franklin-onyeabo-b168631a1)
+          
+          [Github Portfolio](https://fonyeabo12.github.io/)
+          
+          [GitHub addresss](https://github.com/fonyeabo12)
+          
           
  
 ## Technologies
