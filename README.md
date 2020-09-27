@@ -16,6 +16,7 @@ This poject uses the React stack to render a web applicatio that uses an API to 
 * HTML
 * CSS
 * React
+* JavaScript
 * Randomuser.me API
 
 
@@ -23,8 +24,5 @@ This poject uses the React stack to render a web applicatio that uses an API to 
 
 This application is run by first running yarn install into your machine. This is followed by yarn start to run the react app.
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
 
 
